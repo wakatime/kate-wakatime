@@ -22,6 +22,6 @@
     "build/ktexteditor_wakatime_autogen/include"
   ],
   "[cpp]": {
-    "editor.tabSize": 4
+    "editor.tabSize": 6
   }
 }
